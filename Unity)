@@ -1,0 +1,7 @@
+Assets/
+├─ Scripts/
+│   ├─ VehicleController.cs
+│   ├─ LapManager.cs
+│   └─ CameraFollow.cs
+└─ Scenes/
+   └─ MainScene.unity
